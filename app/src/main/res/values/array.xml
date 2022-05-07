@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spinner_help">
+        <item>1명</item>
+        <item>2명</item>
+        <item>3명</item>
+        <item>4명</item>
+        <item>5명</item>
+        <item>6명</item>
+        <item>7명</item>
+        <item>8명</item>
+        <item>9명</item>
+        <item>10명</item>
+        <item>11명</item>
+    </string-array>
+
+    <string-array name="spinner_help2">
+        <item>0명</item>
+        <item>1명</item>
+        <item>2명</item>
+        <item>3명</item>
+        <item>4명</item>
+        <item>5명</item>
+        <item>6명</item>
+        <item>7명</item>
+        <item>8명</item>
+        <item>9명</item>
+        <item>10명</item>
+    </string-array>
+
+    <string-array name="spinner_wmddu">
+        <item>배우자</item>
+        <item>직계존비속</item>
+        <item>직계존비속(미성년)</item>
+        <item>기타친족</item>
+    </string-array>
+
+</resources>
